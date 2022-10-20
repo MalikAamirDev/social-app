@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=2000",
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "position": "UI Designer"
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://www.photographers.ch/wp/wp-content/uploads/2016/01/PW_151015_001-farbe.jpg",
+    "name": {
+      "first": "Jack",
+      "last": "William"
+    },
+    "position": "UX Designer"
+  }
+]
